@@ -1,0 +1,15 @@
+/home/scurvyy/dev/dotnet/Stopwatch/bin/Debug/net7.0/Stopwatch
+/home/scurvyy/dev/dotnet/Stopwatch/bin/Debug/net7.0/Stopwatch.deps.json
+/home/scurvyy/dev/dotnet/Stopwatch/bin/Debug/net7.0/Stopwatch.runtimeconfig.json
+/home/scurvyy/dev/dotnet/Stopwatch/bin/Debug/net7.0/Stopwatch.dll
+/home/scurvyy/dev/dotnet/Stopwatch/bin/Debug/net7.0/Stopwatch.pdb
+/home/scurvyy/dev/dotnet/Stopwatch/obj/Debug/net7.0/Stopwatch.csproj.AssemblyReference.cache
+/home/scurvyy/dev/dotnet/Stopwatch/obj/Debug/net7.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/scurvyy/dev/dotnet/Stopwatch/obj/Debug/net7.0/Stopwatch.AssemblyInfoInputs.cache
+/home/scurvyy/dev/dotnet/Stopwatch/obj/Debug/net7.0/Stopwatch.AssemblyInfo.cs
+/home/scurvyy/dev/dotnet/Stopwatch/obj/Debug/net7.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/scurvyy/dev/dotnet/Stopwatch/obj/Debug/net7.0/Stopwatch.dll
+/home/scurvyy/dev/dotnet/Stopwatch/obj/Debug/net7.0/refint/Stopwatch.dll
+/home/scurvyy/dev/dotnet/Stopwatch/obj/Debug/net7.0/Stopwatch.pdb
+/home/scurvyy/dev/dotnet/Stopwatch/obj/Debug/net7.0/Stopwatch.genruntimeconfig.cache
+/home/scurvyy/dev/dotnet/Stopwatch/obj/Debug/net7.0/ref/Stopwatch.dll
